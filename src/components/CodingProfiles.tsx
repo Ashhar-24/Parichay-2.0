@@ -13,7 +13,7 @@ const CodingProfiles: React.FC = () => {
       },
       description: 'Active problem solver with consistent performance',
       color: 'from-orange-500 to-red-500',
-      icon: <img src="/src/photos/icons8-leetcode-24.png" className="w-8 h-8" alt="LeetCode" />,
+      icon: <img src="/public/photos/icons8-leetcode-24.png" className="w-8 h-8" alt="LeetCode" />,
       link: 'https://leetcode.com/u/ashhar_24/',
       achievements: [
         '450+ problems solved',
@@ -31,7 +31,7 @@ const CodingProfiles: React.FC = () => {
       },
       description: 'Consistent performer in weekly challenges',
       color: 'from-amber-500 to-orange-500',
-      icon: <img src="/src/photos/icons8-codechef-48.png" className="w-8 h-8" />,
+      icon: <img src="/public/photos/icons8-codechef-48.png" className="w-8 h-8" />,
       link: 'https://www.codechef.com/users/ashhar_24',
       achievements: [
         '3-star rated coder',
@@ -49,7 +49,7 @@ const CodingProfiles: React.FC = () => {
       },
       description: 'Strong foundation in data structures and algorithms',
       color: 'from-green-500 to-teal-500',
-      icon: <img src="/src/photos/icons8-codeforces-24.png" className="w-8 h-8" />,
+      icon: <img src="/public/photos/icons8-codeforces-24.png" className="w-8 h-8" />,
       link: 'https://codeforces.com/profile/Cp_Geek',
       achievements: [
         '270+ problems solved',
