@@ -6,7 +6,7 @@ const Projects: React.FC = () => {
     {
       title: 'Chrome Extension - Text Summarizer',
       description: 'A powerful Chrome extension that summarizes lengthy web content, research papers, and articles using Gemini/Hugging Face into three different formats: brief, detailed and bullets.',
-      image: '/public/photos/chromeExtension.png?auto=compress&cs=tinysrgb&w=800',
+      image: '/photos/chromeExtension.png?auto=compress&cs=tinysrgb&w=800',
       technologies: ['JavaScript', 'Gemini API', 'Hugging Face API', 'HTML', 'TailwindCSS'],
       github: 'https://github.com/Ashhar-24/AI-Summarizer',
       demo: 'https://www.youtube.com/watch?v=dJZvF67DHY0',
@@ -17,7 +17,7 @@ const Projects: React.FC = () => {
       title: 'Chatbot for Disease Diagnosis',
       description: `Developed an intelligent chatbot system for disease diagnosis using Meta’s LlaMA2 model, using 'The Gayle Encyclopedia of Medicine' as the dataset to understand user symptoms and provide 
                       accurate diagnostic suggestions.`,
-      image: '/public/photos/medChatbot.png?auto=compress&cs=tinysrgb&w=800',
+      image: '/photos/medChatbot.png?auto=compress&cs=tinysrgb&w=800',
       technologies: ['Python','Langchain' ,'Meta Llama2 Model', 'Faiss DB', 'Chainlit'],
       github: 'https://github.com/Ashhar-24/Llama2-Medical-Chatbot',
       demo: 'https://github.com/Ashhar-24/Llama2-Medical-Chatbot',
