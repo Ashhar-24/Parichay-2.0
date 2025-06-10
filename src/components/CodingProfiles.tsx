@@ -17,7 +17,7 @@ const CodingProfiles: React.FC = () => {
       link: 'https://leetcode.com/u/ashhar_24/',
       achievements: [
         '450+ problems solved',
-        'Current rating: 1795',
+        'Max rating: 1795',
         '100 Days of Code 2025',
       ]
     },
@@ -35,7 +35,7 @@ const CodingProfiles: React.FC = () => {
       link: 'https://www.codechef.com/users/ashhar_24',
       achievements: [
         '3-star rated coder',
-        'Current rating: 1629',
+        'Max rating: 1629',
         'Regular contest participation (39 contests)'
       ]
     },
@@ -53,7 +53,7 @@ const CodingProfiles: React.FC = () => {
       link: 'https://codeforces.com/profile/Cp_Geek',
       achievements: [
         '270+ problems solved',
-        'Current rating: 1237',
+        'Max rating: 1237',
         'Pupil level achieved'
       ]
     },
