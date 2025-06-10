@@ -33,6 +33,8 @@ npm run dev
 ```
 This will start the app on http://localhost:5173 (or similar).
 
+----
+
 ### 🛠️ Tech Stack
 - React with TypeScript
 
@@ -44,6 +46,8 @@ This will start the app on http://localhost:5173 (or similar).
 
 - ESLint for linting and code quality
 
+---
+
 ### 📁 Folder Structure (Brief)
 ```bash
 
@@ -54,11 +58,13 @@ src/
 ├── main.tsx           # ReactDOM entry point
 └── index.css          # Tailwind base styles
 ```
+---
 
 ### 🌐 Deployment
 This project was deployed using Vercel.
 You can also deploy it yourself by:
 
+----
 
 ### 📝 Customization
 Feel free to update:
@@ -68,6 +74,8 @@ Feel free to update:
 `components/Projects.tsx` to modify or add projects.
 
 `public/index.html` to update the meta description, title, and favicon.
+
+---
 
 ### 📬 Contact
 For professional inquiries or collaborations:
