@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
         <div className="animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6">
             Hi, I'm{' '}
-            <span className="block md:inline bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+            <span className="block md:inline mt-4 md:mt-0 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
               <a href="https://linkedin.com/in/md-ashhar-9a5b6b222" target="_blank">
                 Md Ashhar
               </a>
