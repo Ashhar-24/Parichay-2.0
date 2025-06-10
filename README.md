@@ -2,9 +2,10 @@
 
 A modern, responsive portfolio website built using **React**, **TypeScript**, and **Tailwind CSS**, designed to showcase projects, resume, and contact details in a sleek and professional format.
 
-## 🚀 Live Demo
+## 🚀 Live Webiste
+Click below to check the deployed website.
 
-🔗 [View the Deployed Website](https://parichay-2-0.vercel.app/)
+🔗 [Parichay-2.0](https://parichay-2-0.vercel.app/)
 
 ---
 
@@ -58,11 +59,6 @@ src/
 ├── main.tsx           # ReactDOM entry point
 └── index.css          # Tailwind base styles
 ```
----
-
-### 🌐 Deployment
-This project was deployed using Vercel.
-You can also deploy it yourself by:
 
 ----
 
