@@ -117,8 +117,8 @@ const Contact: React.FC = () => {
                 Let's Connect
               </h3>
               <p className="text-gray-700 dark:text-gray-300 mb-8 leading-relaxed">
-                Feel free to reach out if you have any questions, want to collaborate on a project, 
-                or just want to say hello. I'll do my best to get back to you as soon as possible!
+                If you have any inquiries, collaboration proposals, or professional opportunities, feel free to get in touch.
+                 I'll do my best to get back to you as soon as possible!
               </p>
             </div>
 
