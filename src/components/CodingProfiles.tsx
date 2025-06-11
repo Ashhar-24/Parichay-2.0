@@ -26,7 +26,7 @@ const CodingProfiles: React.FC = () => {
       username: 'ashhar_24',
       stats: {
         solved: '215+',  
-        rating: '1600+',
+        rating: '1640+',
         badge: '3★',
       },
       description: 'Consistent performer in weekly challenges',
@@ -35,7 +35,7 @@ const CodingProfiles: React.FC = () => {
       link: 'https://www.codechef.com/users/ashhar_24',
       achievements: [
         '3-star rated coder',
-        'Max rating: 1629',
+        'Max rating: 1648',
         'Regular contest participation (39 contests)'
       ]
     },
