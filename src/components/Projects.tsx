@@ -1,8 +1,19 @@
 import React from 'react';
-import { ExternalLink, Github, Brain, Chrome } from 'lucide-react';
+import { ExternalLink, Github, Brain, Chrome, NotepadText, Code}  from 'lucide-react';
 
 const Projects: React.FC = () => {
   const projects = [
+    {
+      title: 'GFG to GitHub Extension',
+      description: `This browser extension allows users to seamlessly push their GeeksforGeeks C++ problem 
+          solutions to a GitHub repository with a single click. It auto-formats submissions with metadata like title, difficulty, and timestamp—perfect for maintaining a clean, organized DSA portfolio.`,
+      image: '/photos/gfgToGithub.png?auto=compress&cs=tinysrgb&w=800',
+      technologies: ['JavaScript', 'HTML', 'TailwindCSS', 'GitHub API'],
+      github: 'https://github.com/Ashhar-24/gfgToGithub_Extension',
+      demo: 'https://github.com/Ashhar-24/gfgToGithub_Extension',
+      icon: <Code className="w-8 h-8" />,
+      featured: true,
+    },
     {
       title: 'Chrome Extension - Text Summarizer',
       description: 'A powerful Chrome extension that summarizes lengthy web content, research papers, and articles using Gemini/Hugging Face into three different formats: brief, detailed and bullets.',
@@ -10,8 +21,8 @@ const Projects: React.FC = () => {
       technologies: ['JavaScript', 'Gemini API', 'Hugging Face API', 'HTML', 'TailwindCSS'],
       github: 'https://github.com/Ashhar-24/AI-Summarizer',
       demo: 'https://www.youtube.com/watch?v=dJZvF67DHY0',
-      icon: <Chrome className="w-8 h-8" />,
-      featured: true,
+      icon: <NotepadText className="w-8 h-8" />,
+      featured: false,
     },
     {
       title: 'Chatbot for Disease Diagnosis',
