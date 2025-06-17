@@ -1,6 +1,8 @@
 import React from 'react';
 import { ExternalLink, Github, Brain, Chrome, NotepadText, Code}  from 'lucide-react';
 
+
+
 const Projects: React.FC = () => {
   const projects = [
     {
@@ -67,7 +69,7 @@ const Projects: React.FC = () => {
                   <img
                     src={project.image}
                     alt={project.title}
-                    className="w-full h-64 lg:h-80 object-cover"
+                    className="w-full h-70 lg:h-80 object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-end justify-start p-6">
                     <div className="flex space-x-4">
