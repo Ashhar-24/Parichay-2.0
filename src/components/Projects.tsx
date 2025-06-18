@@ -6,9 +6,9 @@ import { ExternalLink, Github, Brain, Chrome, NotepadText, Code}  from 'lucide-r
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: 'GFG to GitHub Extension',
-      description: `This browser extension allows users to seamlessly push their GeeksforGeeks C++ problem 
-          solutions to a GitHub repository with a single click. It auto-formats submissions with metadata like title, difficulty, and timestamp—perfect for maintaining a clean, organized DSA portfolio.`,
+      title: 'CodeDrop – Push Code to GitHub from Any Platform',
+      description: `CodeDrop is a browser extension that lets you seamlessly push your C++ 
+      problem solutions from any coding platform (like GeeksforGeeks, LeetCode, etc.) to your GitHub repository with a single click. It auto-formats submissions with metadata such as title, difficulty, link, and timestamp — making it perfect for maintaining a clean, well-organized DSA portfolio.`,
       image: '/photos/gfgToGithub.png?auto=compress&cs=tinysrgb&w=800',
       technologies: ['JavaScript', 'HTML', 'TailwindCSS', 'GitHub API'],
       github: 'https://github.com/Ashhar-24/gfgToGithub_Extension',
