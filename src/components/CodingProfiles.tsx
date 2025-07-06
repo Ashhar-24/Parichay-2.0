@@ -26,7 +26,7 @@ const CodingProfiles: React.FC = () => {
       username: 'ashhar_24',
       stats: {
         solved: '215+',  
-        rating: '1640+',
+        rating: '1703+',
         badge: '3★',
       },
       description: 'Consistent performer in weekly challenges',
@@ -35,8 +35,8 @@ const CodingProfiles: React.FC = () => {
       link: 'https://www.codechef.com/users/ashhar_24',
       achievements: [
         '3-star rated coder',
-        'Max rating: 1648',
-        'Regular contest participation (39 contests)'
+        'Max rating: 1703',
+        'Regular contest participation (40+ contests)'
       ]
     },
     {
@@ -52,9 +52,9 @@ const CodingProfiles: React.FC = () => {
       icon: <img src="/photos/icons8-codeforces-24.png" className="w-8 h-8" />,
       link: 'https://codeforces.com/profile/Cp_Geek',
       achievements: [
-        '270+ problems solved',
+        'Pupil',
         'Max rating: 1237',
-        'Pupil level achieved'
+        '270+ problems solved'
       ]
     },
   ];
