@@ -7,18 +7,18 @@ const CodingProfiles: React.FC = () => {
       platform: 'LeetCode',
       username: 'ashhar-24',
       stats: {
-        solved: '450+',
-        rating: '1790+',
-        badge: 'NA',
+        solved: '480+',
+        rating: '1875',
+        badge: 'Knight',
       },
       description: 'Active problem solver with consistent performance',
       color: 'from-orange-500 to-red-500',
       icon: <img src="/photos/icons8-leetcode-24.png" className="w-8 h-8" alt="LeetCode" />,
       link: 'https://leetcode.com/u/ashhar_24/',
       achievements: [
-        '450+ problems solved',
-        'Max rating: 1795',
-        '100 Days of Code 2025',
+        'knight (top 5% globally)',
+        'Max rating: 1875',
+        '480+ problems solved',
       ]
     },
     {
